@@ -2,3 +2,7 @@ fastapi
 uvicorn[standard]
 python-dotenv
 sqlalchemy
+python-telegram-bot
+groq
+reportlab
+python-pptx
